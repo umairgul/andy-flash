@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">FlashLight</string>
+    <string name="flashlight_title">Flashlight</string>
+    <string name="flashlight_ready_subtitle">One tap to brighten the room.</string>
+    <string name="flashlight_on_title">Flashlight is on</string>
+    <string name="flashlight_on_subtitle">Tap the control again whenever you want to switch it off.</string>
+    <string name="flashlight_off_title">Flashlight is off</string>
+    <string name="flashlight_off_subtitle">Tap the control to turn your camera torch on instantly.</string>
+    <string name="camera_permission_title">Camera access needed</string>
+    <string name="camera_permission_subtitle">Camera permission is required to control the flashlight on your device.</string>
+    <string name="camera_permission_denied_title">Permission denied</string>
+    <string name="camera_permission_denied_subtitle">Please allow camera access to turn the flashlight on.</string>
+    <string name="camera_permission_blocked_subtitle">Camera access was denied permanently. Open settings to allow flashlight control.</string>
+    <string name="flashlight_unavailable_title">Flashlight unavailable</string>
+    <string name="flashlight_unavailable_subtitle">This device does not expose a camera flash that can be controlled.</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">Turn off</string>
+    <string name="grant_access">Grant access</string>
+    <string name="open_settings">Open settings</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="grant_camera_access">Grant camera access</string>
+    <string name="flashlight_toggle_content_description">Flashlight toggle button</string>
+    <string name="torch_failed_message">Unable to change the flashlight right now. Please try again.</string>
 </resources>
